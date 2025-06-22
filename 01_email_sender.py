@@ -8,7 +8,7 @@ try:
 
     # mail credentials
     senders_email = "madhur09.trinity@gmail.com"
-    password = "whxh vlvn fljl ocev"
+    password = "whxh vlvn fljl wxyz"    #enter the key password
 
     #login
     server.login(senders_email, password)
